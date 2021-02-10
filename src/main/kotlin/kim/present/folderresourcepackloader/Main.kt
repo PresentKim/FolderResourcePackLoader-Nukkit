@@ -1,9 +1,8 @@
-package kim.present.template.maven
+package kim.present.folderresourcepackloader
 
 import cn.nukkit.plugin.PluginBase
 
 class Main : PluginBase() {
     override fun onEnable() {
-        logger.info("Template plugin enabled!")
     }
 }
